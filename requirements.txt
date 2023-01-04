@@ -8,4 +8,5 @@ pydantic==1.8.1
 python-dotenv==0.21.0
 PyJWT==2.0.1
 python-multipart==0.0.5
+SQLAlchemy==1.4.45
 uvicorn==0.13.4
