@@ -14,7 +14,6 @@ alembic==1.9.1
 python-multipart==0.0.5
 SQLAlchemy==1.4.45
 oauthlib==3.2.2
-starlette==0.22.0
 uvicorn==0.13.4
 watchgod==0.8.2
 websockets==8.1
