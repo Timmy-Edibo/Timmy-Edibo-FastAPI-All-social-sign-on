@@ -79,6 +79,6 @@ async def get_documentation(request: Request, user: Optional[dict] = Depends(get
     return response
 
 
-if __name__ == '__main__':
-    import uvicorn
-    uvicorn.run("main:app", host='localhost', port=8000, log_level='debug', reload=True)
+# if __name__ == '__main__':
+#     import uvicorn
+#     uvicorn.run("main:app", host='localhost', port=8000, log_level='debug', reload=True)
